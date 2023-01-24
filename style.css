@@ -1,0 +1,27 @@
+div {
+    border: 3px solid blue;
+    padding: 25px;
+    background-color: rgb(122, 184, 255);
+    box-shadow: 5px 5px
+}
+
+.image {
+    border-radius: 50px;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+li {
+    font-style: italic;
+    margin: 10px;
+}
+
+body {
+    background-color: rgb(255, 187, 0);
+}
+
+#link {
+    color: white;
+}
